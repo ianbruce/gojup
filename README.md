@@ -1,9 +1,7 @@
 # Gojup, a Docker container running a Go Jupyter Notebook
 
-## Just build and run
-
-### Build
+## Just build
 `docker build -t gojup .`
 
-### Run
+## ... and run
 `docker run gojup`
